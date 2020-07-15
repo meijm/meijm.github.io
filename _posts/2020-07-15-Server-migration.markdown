@@ -7,3 +7,4 @@ categories: jekyll update
 Server migration, resulting in the loss of previous diaries. If no accident, the server will not be migrated in the future. 
 
 I will continue to update the content later
+![server](/server-migration.jpg)
