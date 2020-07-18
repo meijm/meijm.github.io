@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jiaming's Blog
-email: meijm@@outlook.com
+email: meijm@@outlook.com(single @)
 description: >- # this means to ignore newlines until "baseurl:"
   Server migration, resulting in the loss of previous diaries. 
   If no accident, the server will not be migrated in the future.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: meijm
+#twitter_username: meijm
 github_username:  meijm
 
 # Build settings
