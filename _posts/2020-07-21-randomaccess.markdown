@@ -4,4 +4,4 @@ title:  "安全通行登记"
 categories: jekyll update
 ---
 
-{% include test2.html %}
+{% include random_access.html %}

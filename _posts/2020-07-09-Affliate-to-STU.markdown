@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 A nice place!
 
-![server](/A.jpg)
+![server](/source/A.jpg)

@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![image](/6.jpg)
+![image](/source/6.jpg)

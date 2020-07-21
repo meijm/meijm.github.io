@@ -9,7 +9,7 @@ It is said that there will be a bull market recently, and some stocks have risen
 I want to automatically look for stocks whose price is in low position. The comparison time is 2020-1-10, which is the week before the Cov-19 outbreak begins.
 
 Here is the result.
-[lowprice-stock.xlsx](/success_df.xlsx)
+[lowprice-stock.xlsx](/source/success_df.xlsx)
 
 #### Friendly reminder: stocks are risky, you need to be cautious when entering the market
 
