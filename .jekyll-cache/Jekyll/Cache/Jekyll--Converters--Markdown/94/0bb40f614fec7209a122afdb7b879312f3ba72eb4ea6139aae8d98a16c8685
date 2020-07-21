@@ -1,11 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>安全通行登记</title>
-  </head>
-  <body>
-    
+I"&
 <!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&from=singlemessage -->
 <html class="pixel-ratio-1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
@@ -64,7 +57,7 @@ if (!window.Promise)
             txt[0]="蒋微";
             txt[1]="黄韵宇";
             txt[2]="冯亚妮";
-			txt[3]="夏颖智";//唐科军; 冯亚妮; 蔡大亨; 何俊杰; 田云; 李珂; 夏颖智; 徐之航; 梅佳明; 黄琼 
+			txt[3]="夏颖智";唐科军; 冯亚妮; 蔡大亨; 何俊杰; 田云; 李珂; 夏颖智; 徐之航; 梅佳明; 黄琼 
             txt[4]="田云";
             document.write(txt[rnd]);
             //-->
@@ -139,6 +132,4 @@ if (!window.Promise)
 
 
 </body></html>
-
-  </body>
-</html>
+:ET
