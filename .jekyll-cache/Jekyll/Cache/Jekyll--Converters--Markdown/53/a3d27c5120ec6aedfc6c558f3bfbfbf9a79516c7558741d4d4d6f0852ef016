@@ -1,4 +1,4 @@
-I"‹'
+I"{'
 <!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&from=singlemessage -->
 <html class="pixel-ratio-1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
@@ -53,9 +53,8 @@ if (!window.Promise)
 		
 		
 		<p id="demo">
-			<input type="text" id="myText" value="Yourname..." />
-			<button onclick="myFunction()">Submite</button>
-			Click the "Submite" button to Submite .</p>
+			<input type="text" id="myText" value="name" style="width:50px; height:20px;" />
+			<button onclick="myFunction()">Submite</button> </p>
 			
 			<script>
 			function myFunction() {
