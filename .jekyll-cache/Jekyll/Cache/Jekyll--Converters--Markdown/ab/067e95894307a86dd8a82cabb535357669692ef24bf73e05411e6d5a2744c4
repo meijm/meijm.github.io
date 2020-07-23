@@ -1,4 +1,4 @@
-I"�&
+I"'
 <!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&from=singlemessage -->
 <html class="pixel-ratio-1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
@@ -51,7 +51,7 @@ if (!window.Promise)
 <div id="check_register"><div class="body-bg"><img src="/source/access/body_img.png" /></div> <div class="container-box"><div class="safe-img"><img src="/source/access/title_success.png" /></div> <div class="card-company green-bg"><div class="text-center" style="font-size: 18px; font-weight: bold; margin-top: 5px;">疫情期间出入证</div> <div class="flex-box"><div class="card-icon"><div class="card-img"><img src="/source/access/card-img-green.png" /></div></div> <div class="card-content"><div class="contentinfo"><h4>上海科技大学</h4> 
     <div class="name" style="text-overflow: ellipsis; overflow: hidden; display: block; white-space: nowrap;">
         <script type="text/javascript">
-            var len=6;//提示文字数，为du了例子简单，所以只设3段文字
+            var len=7;//提示文字数，为du了例子简单，所以只设3段文字
             var rnd=Math.floor(Math.random()*len);
             var txt=new Array(len);
             txt[0]="蒋微";
@@ -60,17 +60,19 @@ if (!window.Promise)
 			txt[3]="夏颖智";//唐科军; 冯亚妮; 蔡大亨; 何俊杰; 田云; 李珂; 夏颖智; 徐之航; 梅佳明; 黄琼 
             txt[4]="田云";
 			txt[5]="唐科军";
+			txt[6]="何俊杰";
             document.write(txt[rnd]);
             //-->
             </script>
     </div> <div class="name m-b-5">
         <script type="text/javascript">
-            var len=3;//提示文字数，为du了例子简单，所以只设3段文字
+            var len=4;//提示文字数，为du了例子简单，所以只设3段文字
             var rnd=Math.floor(Math.random()*len);
             var txt=new Array(len);
             txt[0]="18340811418";
             txt[1]="13023802910";
             txt[2]="18008157866";
+			txt[3]=13719469478
             document.write(txt[rnd]);
             //-->
             </script>
