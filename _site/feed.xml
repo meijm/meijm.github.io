@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-23T18:33:16+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jiaming’s Blog</title><subtitle>Server migration, resulting in the loss of previous diaries.  If no accident, the server will not be migrated in the future.</subtitle><entry><title type="html">安全通行登记</title><link href="http://localhost:4000/jekyll/update/2020/07/21/access.html" rel="alternate" type="text/html" title="安全通行登记" /><published>2020-07-21T00:00:00+08:00</published><updated>2020-07-21T00:00:00+08:00</updated><id>http://localhost:4000/jekyll/update/2020/07/21/access</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/21/access.html">&lt;!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&amp;from=singlemessage --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-23T20:15:45+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jiaming’s Blog</title><subtitle>Server migration, resulting in the loss of previous diaries.  If no accident, the server will not be migrated in the future.</subtitle><entry><title type="html">安全通行登记</title><link href="http://localhost:4000/jekyll/update/2020/07/21/access.html" rel="alternate" type="text/html" title="安全通行登记" /><published>2020-07-21T00:00:00+08:00</published><updated>2020-07-21T00:00:00+08:00</updated><id>http://localhost:4000/jekyll/update/2020/07/21/access</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/21/access.html">&lt;!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&amp;from=singlemessage --&gt;
 &lt;html class=&quot;pixel-ratio-1&quot;&gt;&lt;head&gt;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
 	
 	&lt;title&gt;安全通行登记&lt;/title&gt;
@@ -156,32 +156,54 @@ if (!window.Promise)
 &lt;body&gt;
 &lt;div id=&quot;check_register&quot;&gt;&lt;div class=&quot;body-bg&quot;&gt;&lt;img src=&quot;/source/access/body_img.png&quot; /&gt;&lt;/div&gt; &lt;div class=&quot;container-box&quot;&gt;&lt;div class=&quot;safe-img&quot;&gt;&lt;img src=&quot;/source/access/title_success.png&quot; /&gt;&lt;/div&gt; &lt;div class=&quot;card-company green-bg&quot;&gt;&lt;div class=&quot;text-center&quot; style=&quot;font-size: 18px; font-weight: bold; margin-top: 5px;&quot;&gt;疫情期间出入证&lt;/div&gt; &lt;div class=&quot;flex-box&quot;&gt;&lt;div class=&quot;card-icon&quot;&gt;&lt;div class=&quot;card-img&quot;&gt;&lt;img src=&quot;/source/access/card-img-green.png&quot; /&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class=&quot;card-content&quot;&gt;&lt;div class=&quot;contentinfo&quot;&gt;&lt;h4&gt;上海科技大学&lt;/h4&gt; 
     &lt;div class=&quot;name&quot; style=&quot;text-overflow: ellipsis; overflow: hidden; display: block; white-space: nowrap;&quot;&gt;
-        &lt;script type=&quot;text/javascript&quot;&gt;
-            var len=7;//提示文字数，为du了例子简单，所以只设3段文字
-            var rnd=Math.floor(Math.random()*len);
-            var txt=new Array(len);
-            txt[0]=&quot;蒋微&quot;;
-            txt[1]=&quot;黄韵宇&quot;;
-            txt[2]=&quot;冯亚妮&quot;;
-			txt[3]=&quot;夏颖智&quot;;//唐科军; 冯亚妮; 蔡大亨; 何俊杰; 田云; 李珂; 夏颖智; 徐之航; 梅佳明; 黄琼 
-            txt[4]=&quot;田云&quot;;
-			txt[5]=&quot;唐科军&quot;;
-			txt[6]=&quot;何俊杰&quot;;
-            document.write(txt[rnd]);
-            //--&gt;
-            &lt;/script&gt;
+		
+		
+		&lt;p id=&quot;demo&quot;&gt;
+			&lt;input type=&quot;text&quot; id=&quot;myText&quot; value=&quot;Yourname...&quot; /&gt;
+			&lt;button onclick=&quot;myFunction()&quot;&gt;Submite&lt;/button&gt;
+			Click the &quot;Submite&quot; button to Submite .&lt;/p&gt;
+			
+			&lt;script&gt;
+			function myFunction() {
+			  var x = document.getElementById(&quot;myText&quot;).value;
+				
+			  if (x == &quot;唐科军&quot; || x == &quot;冯亚妮&quot; || x == &quot;何俊杰&quot;|| x == &quot;夏颖智&quot;|| x == &quot;蒋微&quot;)
+			  {
+				document.getElementById(&quot;demo&quot;).innerHTML = x;
+			  }  
+			  else
+			  {
+				alert(&quot;请去教务处请假!!!&quot;);
+				window.location.replace(&quot;https://www.shanghaitech.edu.cn&quot;);
+			  }
+
+			  
+			}
+			&lt;/script&gt;
+
+
+
+
     &lt;/div&gt; &lt;div class=&quot;name m-b-5&quot;&gt;
-        &lt;script type=&quot;text/javascript&quot;&gt;
-            var len=4;//提示文字数，为du了例子简单，所以只设3段文字
-            var rnd=Math.floor(Math.random()*len);
-            var txt=new Array(len);
-            txt[0]=&quot;18340811418&quot;;
-            txt[1]=&quot;13023802910&quot;;
-            txt[2]=&quot;18008157866&quot;;
-			txt[3]=13719469478
-            document.write(txt[rnd]);
-            //--&gt;
-            &lt;/script&gt;
+
+
+		
+
+        &lt;p id=&quot;demo2&quot;&gt;
+			&lt;input type=&quot;text&quot; id=&quot;myText2&quot; value=&quot;YourPhonenumber...&quot; /&gt;
+			&lt;button onclick=&quot;myFunction2()&quot;&gt;Submite&lt;/button&gt;
+			Click the &quot;Submite&quot; button to Submite .&lt;/p&gt;
+			
+			&lt;script&gt;
+			function myFunction2() {
+			  var x = document.getElementById(&quot;myText2&quot;).value;
+			  document.getElementById(&quot;demo2&quot;).innerHTML = x;
+			}
+			&lt;/script&gt;
+			
+
+
+
     &lt;/div&gt; 
 &lt;div class=&quot;name&quot; style=&quot;margin-bottom: 0px;&quot;&gt;有效期：
 	&lt;script&gt;
@@ -240,7 +262,7 @@ if (!window.Promise)
 
 
 
-&lt;/body&gt;&lt;/html&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">安全通行登记 疫情期间出入证 上海科技大学 有效期： 前 可保存此页面截图，在有效期内供下次门岗核验使用，不必重复登录核验</summary></entry><entry><title type="html">Recommendation: Some overseas milk brands</title><link href="http://localhost:4000/jekyll/update/2020/07/20/Milk.html" rel="alternate" type="text/html" title="Recommendation: Some overseas milk brands" /><published>2020-07-20T10:58:01+08:00</published><updated>2020-07-20T10:58:01+08:00</updated><id>http://localhost:4000/jekyll/update/2020/07/20/Milk</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/20/Milk.html">&lt;p&gt;Recently, an article titled &lt;a href=&quot;https://zhuanlan.zhihu.com/p/159385361&quot;&gt;“深扒蒙牛伊利6大罪状，媒体不敢说，那就我来说”&lt;/a&gt; ignite full web. In fact, these things have been reported long ago. It also has been reported on Zhihu.com, Chinese version of Quora, &lt;a href=&quot;https://www.zhihu.com/question/314238060&quot;&gt;如何看待中国农垦乳业联盟同蒙牛伊利制奶标准的差异？&lt;/a&gt; last year.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">安全通行登记 疫情期间出入证 上海科技大学 Submite Click the &quot;Submite&quot; button to Submite . Submite Click the &quot;Submite&quot; button to Submite . 有效期： 前 可保存此页面截图，在有效期内供下次门岗核验使用，不必重复登录核验</summary></entry><entry><title type="html">Recommendation: Some overseas milk brands</title><link href="http://localhost:4000/jekyll/update/2020/07/20/Milk.html" rel="alternate" type="text/html" title="Recommendation: Some overseas milk brands" /><published>2020-07-20T10:58:01+08:00</published><updated>2020-07-20T10:58:01+08:00</updated><id>http://localhost:4000/jekyll/update/2020/07/20/Milk</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/20/Milk.html">&lt;p&gt;Recently, an article titled &lt;a href=&quot;https://zhuanlan.zhihu.com/p/159385361&quot;&gt;“深扒蒙牛伊利6大罪状，媒体不敢说，那就我来说”&lt;/a&gt; ignite full web. In fact, these things have been reported long ago. It also has been reported on Zhihu.com, Chinese version of Quora, &lt;a href=&quot;https://www.zhihu.com/question/314238060&quot;&gt;如何看待中国农垦乳业联盟同蒙牛伊利制奶标准的差异？&lt;/a&gt; last year.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.zhihu.com/question/319009248&quot;&gt;中国农垦乳业联盟&lt;/a&gt; Contains many high-quality domestic milk brands. I will not repeat it here. I paid much attention to milk safety issues as early as several years ago. Many people may think that domestic milk is not good, then why not buy imported milk. This is indeed a feasible method, but on JD.com and  Taobao.com platform, there is a lot of fake foreign milk (假洋鬼子奶).&lt;/p&gt;
 
