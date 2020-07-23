@@ -1,11 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>安全通行登记</title>
-  </head>
-  <body>
-    
+I"$&
 <!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&from=singlemessage -->
 <html class="pixel-ratio-1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
@@ -61,7 +54,8 @@ if (!window.Promise)
 		
 		<p id="demo">
 			<input type="text" id="myText" value="Yourname..." />
-			<button onclick="myFunction()">Submite</button> </p>
+			<button onclick="myFunction()">Submite</button>
+			Click the "Submite" button to Submite .</p>
 			
 			<script>
 			function myFunction() {
@@ -87,24 +81,15 @@ if (!window.Promise)
     </div> <div class="name m-b-5">
 
 
-		<script type="text/javascript">
-            var len=3;//提示文字数，为du了例子简单，所以只设3段文字
-            var len=4;//提示文字数，为du了例子简单，所以只设3段文字
-            var rnd=Math.floor(Math.random()*len);
-            var txt=new Array(len);
-            txt[0]="18340811418";
-            txt[1]="13023802910";
-            txt[2]="18008157866";
-			txt[3]="13719469478";
-            document.write(txt[rnd]);
-            //-->
-            </script>
-			
+		
+
+        <p asdfid="demo2">
+
 			
 
 
 
-    </div> 
+    &lt;/div&gt; 
 <div class="name" style="margin-bottom: 0px;">有效期：
 	<script>
 		// 获取当前日期
@@ -133,9 +118,9 @@ if (!window.Promise)
 	var nowDate = date.getFullYear() + seperator + nowMonth + seperator + strDate;
 		document.write(nowDate);
 		</script>
-	前</div></div></div></div> <div style="position: absolute; z-index: 1; bottom: -5px; right: 0px; width: 100px; opacity: 0.3;"><img src="/source/access/tz.png" style="width: 100%;" /></div></div> <div class="company-name">
+	前</div>&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; <div style="position: absolute; z-index: 1; bottom: -5px; right: 0px; width: 100px; opacity: 0.3;"><img src="/source/access/tz.png" style="width: 100%;" /></div>&lt;/div&gt; <div class="company-name">
 			可保存此页面截图，在有效期内供下次门岗核验使用，不必重复登录核验
-		</div></div></div>
+		</div>&lt;/div&gt;&lt;/div&gt;
 
 <script type="text/javascript">
 (function($) {
@@ -162,7 +147,6 @@ if (!window.Promise)
 
 
 
-</body></html>
-
-  </body>
-</html>
+&lt;/body&gt;&lt;/html&gt;
+</p></div></div></div></div></div></div></div></body></html>
+:ET
