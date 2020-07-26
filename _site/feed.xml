@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-23T20:44:19+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jiaming’s Blog</title><subtitle>Server migration, resulting in the loss of previous diaries.  If no accident, the server will not be migrated in the future.</subtitle><entry><title type="html">安全通行登记</title><link href="http://localhost:4000/jekyll/update/2020/07/21/access.html" rel="alternate" type="text/html" title="安全通行登记" /><published>2020-07-21T00:00:00+08:00</published><updated>2020-07-21T00:00:00+08:00</updated><id>http://localhost:4000/jekyll/update/2020/07/21/access</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/21/access.html">&lt;!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&amp;from=singlemessage --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-26T12:13:19+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jiaming’s Blog</title><subtitle>Server migration, resulting in the loss of previous diaries.  If no accident, the server will not be migrated in the future.</subtitle><entry><title type="html">安全通行登记</title><link href="http://localhost:4000/jekyll/update/2020/07/21/access.html" rel="alternate" type="text/html" title="安全通行登记" /><published>2020-07-21T00:00:00+08:00</published><updated>2020-07-21T00:00:00+08:00</updated><id>http://localhost:4000/jekyll/update/2020/07/21/access</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/21/access.html">&lt;!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&amp;from=singlemessage --&gt;
 &lt;html class=&quot;pixel-ratio-1&quot;&gt;&lt;head&gt;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
 	
 	&lt;title&gt;安全通行登记&lt;/title&gt;
@@ -166,7 +166,7 @@ if (!window.Promise)
 			function myFunction() {
 			  var x = document.getElementById(&quot;myText&quot;).value;
 				
-			  if (x == &quot;唐科军&quot; || x == &quot;冯亚妮&quot; || x == &quot;何俊杰&quot;|| x == &quot;夏颖智&quot;|| x == &quot;蒋微&quot;)
+			  if (x == &quot;唐科军&quot; || x == &quot;冯亚妮&quot; || x == &quot;何俊杰&quot;|| x == &quot;夏颖智&quot;|| x == &quot;蒋微&quot;|| x == &quot;黄韵宇&quot;|| x == &quot;徐之航&quot;|| x == &quot;朱琳&quot;|| x == &quot;蔡大亨&quot;|| x == &quot;田云&quot;)
 			  {
 				document.getElementById(&quot;demo&quot;).innerHTML = x;
 			  }  
@@ -195,6 +195,12 @@ if (!window.Promise)
             txt[1]=&quot;13023802910&quot;;
             txt[2]=&quot;18008157866&quot;;
 			txt[3]=&quot;13719469478&quot;;
+			txt[4]='15901667052';
+			txt[5]='18601228035';
+			txt[6]='18512163197';
+			txt[7]='13381833192';
+			txt[8]='15316644072';
+			txt[9]='13003160978';
             document.write(txt[rnd]);
             //--&gt;
             &lt;/script&gt;

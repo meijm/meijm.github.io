@@ -1,4 +1,4 @@
-I"|'
+I"j(
 <!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&from=singlemessage -->
 <html class="pixel-ratio-1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
@@ -53,14 +53,14 @@ if (!window.Promise)
 		
 		
 		<p id="demo">
-			<input type="text" id="myText" value="name" style="width:100px; height:20px;" />
+			<input type="text" id="myText" value="name" style="width:50px; height:15px;" />
 			<button onclick="myFunction()">Submite</button> </p>
 			
 			<script>
 			function myFunction() {
 			  var x = document.getElementById("myText").value;
 				
-			  if (x == "唐科军" || x == "冯亚妮" || x == "何俊杰"|| x == "夏颖智"|| x == "蒋微")
+			  if (x == "唐科军" || x == "冯亚妮" || x == "何俊杰"|| x == "夏颖智"|| x == "蒋微"|| x == "黄韵宇"|| x == "徐之航"|| x == "朱琳"|| x == "蔡大亨"|| x == "田云")
 			  {
 				document.getElementById("demo").innerHTML = x;
 			  }  
@@ -89,6 +89,12 @@ if (!window.Promise)
             txt[1]="13023802910";
             txt[2]="18008157866";
 			txt[3]="13719469478";
+			txt[4]='15901667052';
+			txt[4]='18601228035';
+			txt[4]='18512163197';
+			txt[4]='13381833192';
+			txt[4]='15316644072';
+			txt[4]='13003160978';
             document.write(txt[rnd]);
             //-->
             </script>
