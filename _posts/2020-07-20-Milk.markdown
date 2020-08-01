@@ -2,7 +2,7 @@
 layout: post
 title:  "Recommendation: Some overseas milk brands"
 date:   2020-07-20 10:58:01 +0800
-categories: jekyll update
+categories: update
 ---
 Recently, an article titled ["深扒蒙牛伊利6大罪状，媒体不敢说，那就我来说"](https://zhuanlan.zhihu.com/p/159385361) ignite full web. In fact, these things have been reported long ago. It also has been reported on Zhihu.com, Chinese version of Quora, [如何看待中国农垦乳业联盟同蒙牛伊利制奶标准的差异？](https://www.zhihu.com/question/314238060) last year.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Garden Party"
 date:   2020-07-18
-categories: jekyll update
+categories: update
 ---
 排队时发生一个小插曲，有位同学A中暑晕倒在地，旁边几位同学围观着，有几位同学在打120电话。
 我便立即跑入旁边食堂，抓了一大把纸巾蘸水后交给旁边同学，让他们替晕倒同学A擦拭额头及其四肢。

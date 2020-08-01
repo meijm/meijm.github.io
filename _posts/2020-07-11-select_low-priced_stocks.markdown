@@ -2,7 +2,7 @@
 layout: post
 title:  "Automatically select low-priced stocks"
 date:   2020-07-11 10:58:01 +0800
-categories: jekyll update
+categories: update
 ---
 
 It is said that there will be a bull market recently, and some stocks have risen a lot. But some stock prices are still low.
