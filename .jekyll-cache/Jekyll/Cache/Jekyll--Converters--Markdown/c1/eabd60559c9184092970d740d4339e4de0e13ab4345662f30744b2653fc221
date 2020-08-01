@@ -1,4 +1,4 @@
-I"j(
+I"�(
 <!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&from=singlemessage -->
 <html class="pixel-ratio-1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
@@ -60,7 +60,7 @@ if (!window.Promise)
 			function myFunction() {
 			  var x = document.getElementById("myText").value;
 				
-			  if (x == "唐科军" || x == "冯亚妮" || x == "何俊杰"|| x == "夏颖智"|| x == "蒋微"|| x == "黄韵宇"|| x == "徐之航"|| x == "朱琳"|| x == "蔡大亨"|| x == "田云")
+			  if (x == "唐科军" || x == "冯亚妮" || x == "何俊杰"|| x == "夏颖智"|| x == "蒋微"|| x == "黄韵宇"|| x == "徐之航"|| x == "朱琳"|| x == "蔡大亨"|| x == "田云"|| x == "李珂"|| x == "黄琼")
 			  {
 				document.getElementById("demo").innerHTML = x;
 			  }  
@@ -90,11 +90,11 @@ if (!window.Promise)
             txt[2]="18008157866";
 			txt[3]="13719469478";
 			txt[4]='15901667052';
-			txt[4]='18601228035';
-			txt[4]='18512163197';
-			txt[4]='13381833192';
-			txt[4]='15316644072';
-			txt[4]='13003160978';
+			txt[5]='18601228035';
+			txt[6]='18512163197';
+			txt[7]='13381833192';
+			txt[8]='15316644072';
+			txt[9]='13003160978';
             document.write(txt[rnd]);
             //-->
             </script>
