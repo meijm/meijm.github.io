@@ -1,4 +1,4 @@
-I"�(
+I"�(
 <!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&from=singlemessage -->
 <html class="pixel-ratio-1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
@@ -60,7 +60,7 @@ if (!window.Promise)
 			function myFunction() {
 			  var x = document.getElementById("myText").value;
 				
-			  if (x == "唐科军" || x == "冯亚妮" || x == "何俊杰"|| x == "夏颖智"|| x == "蒋微"|| x == "黄韵宇"|| x == "徐之航"|| x == "朱琳"|| x == "蔡大亨"|| x == "田云"|| x == "李珂"|| x == "黄琼")
+			  if (x == "唐科军" || x == "冯亚妮" || x == "何俊杰"|| x == "夏颖智"|| x == "蒋微"|| x == "黄韵宇"|| x == "徐之航"|| x == "朱琳"|| x == "蔡大亨"|| x == "田云"|| x == "李珂"|| x == "黄琼"|| x == "焦方圆")
 			  {
 				document.getElementById("demo").innerHTML = x;
 			  }  
