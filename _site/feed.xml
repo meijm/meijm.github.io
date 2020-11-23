@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-21T23:51:39+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mei Jiaming’s Blog</title><subtitle>This is Jiaming's personal website, I'll share some interesting things or techniques here.
-</subtitle><author><name>meijm</name><email>meijm@@outlook.com</email></author><entry><title type="html">Stay skeptical</title><link href="http://localhost:4000/update/2020/10/18/Dare-to-challenge-authority.html" rel="alternate" type="text/html" title="Stay skeptical" /><published>2020-10-18T00:00:00+08:00</published><updated>2020-10-18T00:00:00+08:00</updated><id>http://localhost:4000/update/2020/10/18/Dare-to-challenge-authority</id><content type="html" xml:base="http://localhost:4000/update/2020/10/18/Dare-to-challenge-authority.html">&lt;p&gt;I have been working on a project related to physics informed neural network in recent months. The content is about solving partial differential equations through neural networks. The difference from traditional neural networks is that we don’t need to use any label data, just use equations to construct Loss function.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-23T20:09:21+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mei Jiaming’s Blog</title><subtitle>This is Jiaming's personal website, I'll share some interesting things or techniques here.
+</subtitle><author><name>meijm</name><email>meijm@@outlook.com</email></author><entry><title type="html">Student congress</title><link href="http://localhost:4000/update/2020/11/23/student-congress.html" rel="alternate" type="text/html" title="Student congress" /><published>2020-11-23T00:00:00+08:00</published><updated>2020-11-23T00:00:00+08:00</updated><id>http://localhost:4000/update/2020/11/23/student-congress</id><content type="html" xml:base="http://localhost:4000/update/2020/11/23/student-congress.html">&lt;p&gt;&lt;img src=&quot;/source/congress.jpg&quot; alt=&quot;SC&quot; /&gt;
+It’s my honor to be supported by more than 200 students and become an  student representative.&lt;/p&gt;
+
+&lt;p&gt;To be honest, I was disappointed by the series of formalism at the beginning of the Congress. This disappointment accumulated to a climax before the bureau election. I finally decided to interrupt the election and proposed to increase the candidate Q&amp;amp;A  session.&lt;/p&gt;
+
+&lt;p&gt;For student Han’s loss, I felt very sorry. I have to admit that student Han is a very good speaker, but his content is too void. However, what ShanghaiTech really needs are doers, not speakers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/source/bi.png&quot; alt=&quot;SC&quot; /&gt;
+One more thing, On the way to the conference room, I met an excellent classmate, Who opened a series of courses on &lt;a href=&quot;https://space.bilibili.com/76749099/channel/detail?cid=116957&quot;&gt;Bilibili.com&lt;/a&gt;. I wish this guy would got a position with an annual salary of 500,000 while still have time enjoy life.&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">It’s my honor to be supported by more than 200 students and become an student representative.</summary></entry><entry><title type="html">Stay skeptical</title><link href="http://localhost:4000/update/2020/10/18/Dare-to-challenge-authority.html" rel="alternate" type="text/html" title="Stay skeptical" /><published>2020-10-18T00:00:00+08:00</published><updated>2020-10-18T00:00:00+08:00</updated><id>http://localhost:4000/update/2020/10/18/Dare-to-challenge-authority</id><content type="html" xml:base="http://localhost:4000/update/2020/10/18/Dare-to-challenge-authority.html">&lt;p&gt;I have been working on a project related to physics informed neural network in recent months. The content is about solving partial differential equations through neural networks. The difference from traditional neural networks is that we don’t need to use any label data, just use equations to construct Loss function.&lt;/p&gt;
 
 &lt;p&gt;while constructing the loss function, I need to use a complex equation, the coefficients of the equation need to be solved by using KL expansion. Big brother Tang has done research on KL development before. I directly adopted the theoretical analysis of the Tang.&lt;/p&gt;
 
@@ -26,6 +34,12 @@ Creating an index of posts on another page should be easy thanks to Liquid and i
   
   
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;post-meta&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;2020-11-23 00:00:00 +0800&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;h3&amp;gt;&lt;/span&gt;
+          &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;post-link&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/update/2020/11/23/student-congress.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+            Student congress
+          &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;/h3&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&lt;/span&gt;
         &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;post-meta&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;2020-10-18 00:00:00 +0800&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
         &lt;span class=&quot;nt&quot;&gt;&amp;lt;h3&amp;gt;&lt;/span&gt;
           &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;post-link&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/update/2020/10/18/Dare-to-challenge-authority.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
@@ -335,166 +349,4 @@ if (!window.Promise)
 
 
 
-&lt;/body&gt;&lt;/html&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="private" /><summary type="html">安全通行登记 疫情期间出入证 上海科技大学 蒋微 18964084357 有效期： 前 可保存此页面截图，在有效期内供下次门岗核验使用，不必重复登录核验</summary></entry><entry><title type="html">安全通行登记</title><link href="http://localhost:4000/private/randomaccess.html" rel="alternate" type="text/html" title="安全通行登记" /><published>2020-07-21T00:00:00+08:00</published><updated>2020-07-21T00:00:00+08:00</updated><id>http://localhost:4000/private/randomaccess</id><content type="html" xml:base="http://localhost:4000/private/randomaccess.html">&lt;!-- saved from url=(0091)http://kademo.renesola.com/returnwork/doScan?userId=K4AUHFJO436LQ9MWJ9AX&amp;from=singlemessage --&gt;
-&lt;html class=&quot;pixel-ratio-1&quot;&gt;&lt;head&gt;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
-	
-	&lt;title&gt;安全通行登记&lt;/title&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no&quot; /&gt;
-	&lt;meta name=&quot;apple-mobile-web-app-capable&quot; content=&quot;yes&quot; /&gt;
-	&lt;meta name=&quot;apple-mobile-web-app-status-bar-style&quot; content=&quot;black&quot; /&gt;
-	
-&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no&quot; /&gt;
-&lt;meta name=&quot;apple-mobile-web-app-capable&quot; content=&quot;yes&quot; /&gt;
-&lt;meta name=&quot;apple-mobile-web-app-status-bar-style&quot; content=&quot;black&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/weui-for-work.min.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/example.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/jquery-weui.min.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/app.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/color-style.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/specialist.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/action.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/questionnaire.css&quot; /&gt;
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/jifen-tab.css&quot; /&gt;
-
-&lt;script&gt;
-if (!window.Promise)
-	document.write('&lt;script src=&quot;/js/es6-promise.auto.min.js&quot;&gt;&lt;\/script&gt;');
-&lt;/script&gt;
-&lt;script&gt;window.Promise = window.Promise || window.ES6Promise&lt;/script&gt;
-&lt;script src=&quot;/source/access/jquery-2.1.4.js.下载&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;/source/access/jquery-weui.min.js.下载&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;/source/access/weui.min.js.下载&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;/source/access/swiper.jquery.js.下载&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;/source/access/vue.min.js.下载&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;/source/access/jquery.cookie.js.下载&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;/source/access/basic.js.下载&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;/source/access/main.js.下载&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;/source/access/bootstrap.min.js.下载&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;/source/access/bootstrap-datepicker.js.下载&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;/source/access/datePicker.js.下载&quot;&gt;&lt;/script&gt;&lt;style type=&quot;text/css&quot;&gt;.gearYM,.gearDate,.gearDatetime,.gearTime{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:10px;background-color:rgba(0,0,0,0.2);display:block;position:fixed;top:0;left:0;width:100%;height:100%;z-index:9900;overflow:hidden;-webkit-animation-fill-mode:both;animation-fill-mode:both}.date_ctrl{vertical-align:middle;background-color:#d5d8df;color:#000;margin:0;height:auto;width:100%;position:absolute;left:0;bottom:0;z-index:9901;overflow:hidden;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.slideInUp{animation:slideInUp .3s ease;-webkit-animation:slideInUp .3s ease;}@-webkit-keyframes slideInUp{from{-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}.ym_roll,.date_roll,.datetime_roll,.time_roll{display:-webkit-box;width:100%;height:auto;overflow:hidden;font-weight:bold;background-color:transparent;-webkit-mask:-webkit-gradient(linear,0% 50%,0% 100%,from(#debb47),to(rgba(36,142,36,0)));-webkit-mask:-webkit-linear-gradient(top,#debb47 50%,rgba(36,142,36,0))}.ym_roll&gt;div,.date_roll&gt;div,.datetime_roll&gt;div,.time_roll&gt;div{font-size:2.3em;height:6em;float:left;background-color:transparent;position:relative;overflow:hidden;-webkit-box-flex:4}.ym_roll&gt;div .gear,.date_roll&gt;div .gear,.datetime_roll&gt;div .gear,.time_roll&gt;div .gear{width:100%;float:left;position:absolute;z-index:9902;margin-top:-6em}.date_roll_mask{-webkit-mask:-webkit-gradient(linear,0% 40%,0% 0%,from(#debb47),to(rgba(36,142,36,0)));-webkit-mask:-webkit-linear-gradient(bottom,#debb47 50%,rgba(36,142,36,0));padding:0 0 3em 0}.date_roll&gt;div:nth-child(2){-webkit-box-flex:2}.date_roll&gt;div:nth-child(1),.datetime_roll&gt;div:nth-child(1){-webkit-box-flex:4}.datetime_roll&gt;div:first-child{-webkit-box-flex:6}.datetime_roll&gt;div:last-child{-webkit-box-flex:6}.date_grid{position:relative;top:2em;width:100%;height:2em;margin:0;box-sizing:border-box;z-index:0;border-top:1px solid #abaeb5;border-bottom:1px solid #abaeb5}.date_grid&gt;div{color:#000;position:absolute;right:0;top:0;font-size:.8em;line-height:2.5em}.date_roll&gt;div:nth-child(3) .date_grid&gt;div{left:42%}.datetime_roll&gt;div .date_grid&gt;div{right:0}.datetime_roll&gt;div:first-child .date_grid&gt;div{left:auto;right:0%}.datetime_roll&gt;div:last-child .date_grid&gt;div{left:50%}.time_roll&gt;div:nth-child(1) .date_grid&gt;div{right:1em}.ym_roll&gt;div:nth-child(1) .date_grid&gt;div{right:.1em}.ym_roll&gt;div .date_grid&gt;div,.time_roll&gt;div .date_grid&gt;div{right:5em}.date_btn{color:#0575f2;font-size:1.6em;font-weight:bold;line-height:1em;text-align:center;padding:.8em 1em}.date_btn_box:before,.date_btn_box:after{content:&quot;&quot;;position:absolute;height:1px;width:100%;display:block;background-color:#96979b;z-index:15;-webkit-transform:scaleY(0.33);transform:scaleY(0.33)}.date_btn_box{display:-webkit-box;-webkit-box-pack:justify;-webkit-box-align:stretch;background-color:#f1f2f4;position:relative}.date_btn_box:before{left:0;top:0;-webkit-transform-origin:50% 20%;transform-origin:50% 20%}.date_btn_box:after{left:0;bottom:0;-webkit-transform-origin:50% 70%;transform-origin:50% 70%}.date_roll&gt;div:nth-child(1) .gear{text-indent:20%}.date_roll&gt;div:nth-child(2) .gear{text-indent:-20%}.date_roll&gt;div:nth-child(3) .gear{text-indent:-55%}.datetime_roll&gt;div .gear{width:100%;text-indent:-25%}.datetime_roll&gt;div:first-child .gear{text-indent:-10%}.datetime_roll&gt;div:last-child .gear{text-indent:-50%}.ym_roll&gt;div .gear,.time_roll&gt;div .gear{width:100%;text-indent:-70%}.ym_roll&gt;div:nth-child(1) .gear,.time_roll&gt;div:nth-child(1) .gear{width:100%;text-indent:10%}.tooth{height:2em;line-height:2em;text-align:center}&lt;/style&gt;
-&lt;style&gt;
-[v-cloak] { display: none; }
-&lt;/style&gt;
-
-	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/weui-for-work.min(1).css&quot; /&gt;
-	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/example(1).css&quot; /&gt;
-	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/jquery-weui.min(1).css&quot; /&gt;
-	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/app(1).css&quot; /&gt;
-	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/source/access/style.css&quot; /&gt;
-&lt;/head&gt;
-
-&lt;body&gt;
-&lt;div id=&quot;check_register&quot;&gt;&lt;div class=&quot;body-bg&quot;&gt;&lt;img src=&quot;/source/access/body_img.png&quot; /&gt;&lt;/div&gt; &lt;div class=&quot;container-box&quot;&gt;&lt;div class=&quot;safe-img&quot;&gt;&lt;img src=&quot;/source/access/title_success.png&quot; /&gt;&lt;/div&gt; &lt;div class=&quot;card-company green-bg&quot;&gt;&lt;div class=&quot;text-center&quot; style=&quot;font-size: 18px; font-weight: bold; margin-top: 5px;&quot;&gt;疫情期间出入证&lt;/div&gt; &lt;div class=&quot;flex-box&quot;&gt;&lt;div class=&quot;card-icon&quot;&gt;&lt;div class=&quot;card-img&quot;&gt;&lt;img src=&quot;/source/access/card-img-green.png&quot; /&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class=&quot;card-content&quot;&gt;&lt;div class=&quot;contentinfo&quot;&gt;&lt;h4&gt;上海科技大学&lt;/h4&gt; 
-    &lt;div class=&quot;name&quot; style=&quot;text-overflow: ellipsis; overflow: hidden; display: block; white-space: nowrap;&quot;&gt;
-		
-		
-		&lt;p id=&quot;demo&quot;&gt;
-			&lt;input type=&quot;text&quot; id=&quot;myText&quot; value=&quot;name&quot; style=&quot;width:50px; height:15px;&quot; /&gt;
-			&lt;button onclick=&quot;myFunction()&quot;&gt;Submite&lt;/button&gt; &lt;/p&gt;
-			
-			&lt;script&gt;
-			function myFunction() {
-			  var x = document.getElementById(&quot;myText&quot;).value;
-				
-			  if (x == &quot;唐科军&quot; || x == &quot;冯亚妮&quot; || x == &quot;何俊杰&quot;|| x == &quot;夏颖智&quot;|| x == &quot;蒋微&quot;|| x == &quot;黄韵宇&quot;|| x == &quot;徐之航&quot;|| x == &quot;朱琳&quot;|| x == &quot;蔡大亨&quot;|| x == &quot;田云&quot;|| x == &quot;李珂&quot;|| x == &quot;黄琼&quot;|| x == &quot;焦方圆&quot;)
-			  {
-				document.getElementById(&quot;demo&quot;).innerHTML = x;
-			  }  
-			  else
-			  {
-				alert(&quot;请去教务处请假!!!&quot;);
-				window.location.replace(&quot;https://www.shanghaitech.edu.cn&quot;);
-			  }
-
-			  
-			}
-			&lt;/script&gt;
-
-
-
-
-    &lt;/div&gt; &lt;div class=&quot;name m-b-5&quot;&gt;
-
-
-		&lt;script type=&quot;text/javascript&quot;&gt;
-            var len=3;//提示文字数，为du了例子简单，所以只设3段文字
-            var len=4;//提示文字数，为du了例子简单，所以只设3段文字
-            var rnd=Math.floor(Math.random()*len);
-            var txt=new Array(len);
-            txt[0]=&quot;18340811418&quot;;
-            txt[1]=&quot;13023802910&quot;;
-            txt[2]=&quot;18008157866&quot;;
-			txt[3]=&quot;13719469478&quot;;
-			txt[4]='15901667052';
-			txt[5]='18601228035';
-			txt[6]='18512163197';
-			txt[7]='13381833192';
-			txt[8]='15316644072';
-			txt[9]='13003160978';
-            document.write(txt[rnd]);
-            //--&gt;
-            &lt;/script&gt;
-			
-			
-
-
-
-    &lt;/div&gt; 
-&lt;div class=&quot;name&quot; style=&quot;margin-bottom: 0px;&quot;&gt;有效期：
-	&lt;script&gt;
-		// 获取当前日期
-	var date = new Date();
-
-	// 获取当前月份
-	var nowMonth = date.getMonth() + 1;
-
-	// 获取当前是几号
-	var strDate = date.getDate();
-
-	// 添加分隔符“-”
-	var seperator = &quot;-&quot;;
-
-	// 对月份进行处理，1-9月在前面添加一个“0”
-	if (nowMonth &gt;= 1 &amp;&amp; nowMonth &lt;= 9) {
-	nowMonth = &quot;0&quot; + nowMonth;
-	}
-
-	// 对月份进行处理，1-9号在前面添加一个“0”
-	if (strDate &gt;= 0 &amp;&amp; strDate &lt;= 9) {
-	strDate = &quot;0&quot; + strDate;
-	}
-
-	// 最后拼接字符串，得到一个格式为(yyyy-MM-dd)的日期
-	var nowDate = date.getFullYear() + seperator + nowMonth + seperator + strDate;
-		document.write(nowDate);
-		&lt;/script&gt;
-	前&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;position: absolute; z-index: 1; bottom: -5px; right: 0px; width: 100px; opacity: 0.3;&quot;&gt;&lt;img src=&quot;/source/access/tz.png&quot; style=&quot;width: 100%;&quot; /&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class=&quot;company-name&quot;&gt;
-			可保存此页面截图，在有效期内供下次门岗核验使用，不必重复登录核验
-		&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-(function($) {
-	$(function() {
-		localStorage.kachu_empid='K4AUHFJO436LQ9MWJ9AX'
-		var vm = new Vue({
-			el: &quot;#check_register&quot;,
-			data: {
-				company_name: '上海科技大学',
-				user_name: '黄韵宇',
-				user_tel: '13023802910',
-				user_date: '2020-07-21',
-				car_number: '',
-				userId: 'K4AUHFJO436LQ9MWJ9AX',
-			},
-			methods:{
-			},
-			
-		});
-
-	})
-})(jQuery)
-&lt;/script&gt;
-
-
-
-&lt;/body&gt;&lt;/html&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="private" /><summary type="html">安全通行登记 疫情期间出入证 上海科技大学 Submite 有效期： 前 可保存此页面截图，在有效期内供下次门岗核验使用，不必重复登录核验</summary></entry></feed>
+&lt;/body&gt;&lt;/html&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="private" /><summary type="html">安全通行登记 疫情期间出入证 上海科技大学 蒋微 18964084357 有效期： 前 可保存此页面截图，在有效期内供下次门岗核验使用，不必重复登录核验</summary></entry></feed>
