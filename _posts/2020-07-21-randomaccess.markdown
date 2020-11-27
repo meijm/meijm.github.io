@@ -7,4 +7,4 @@ permalink: /private/randomaccess.html
 
 
 # For academic communication only
-# {% include random_access.html %}
+#  Project Termination
