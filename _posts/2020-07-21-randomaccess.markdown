@@ -5,4 +5,6 @@ categories: private
 permalink: /private/randomaccess.html
 ---
 
-{% include random_access.html %}
+
+# For academic communication only
+# {% include random_access.html %}
