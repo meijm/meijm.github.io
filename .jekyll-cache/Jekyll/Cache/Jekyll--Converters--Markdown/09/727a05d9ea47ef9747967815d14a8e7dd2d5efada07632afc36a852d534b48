@@ -1,0 +1,4 @@
+I"�<p>If you run tensorflow related programs on public gpu server with jupyter-notebook. After your network is trained, tensor data may still occupy a large amount of gpu memory(you can use ‘nvidia-smi’ command to check usage of gpu). Under these circumstances, GPUs are not computing at all, but other students can’t employ these Idle GPU.
+<img src="/source/outofme.png" alt="out" />
+Here is a easiest solution:</p>
+:ET
