@@ -1,7 +1,7 @@
 ---
 layout: blank
 title:  "安全通行登记"
-categories: private
-permalink: /private/access.html
+categories: update
+#permalink: /private/access.html
 ---
-#  Project Termination
+{% include random_access.html %}

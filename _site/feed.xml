@@ -1,5 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-24T19:43:33+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mei Jiaming’s Blog</title><subtitle>This is Jiaming's personal website, I'll share some interesting things or techniques here.
-</subtitle><author><name>meijm</name><email>meijm@@outlook.com</email></author><entry><title type="html">Drama</title><link href="http://localhost:4000/update/2021/01/24/drama.html" rel="alternate" type="text/html" title="Drama" /><published>2021-01-24T00:00:00+08:00</published><updated>2021-01-24T00:00:00+08:00</updated><id>http://localhost:4000/update/2021/01/24/drama</id><content type="html" xml:base="http://localhost:4000/update/2021/01/24/drama.html">&lt;p&gt;&lt;img src=&quot;/source/drama_student.jpg&quot; alt=&quot;out&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-11T01:00:06+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mei Jiaming’s Blog</title><subtitle>This is Jiaming's personal website, I'll share some interesting things or techniques here.
+</subtitle><author><name>meijm</name><email>meijm@@outlook.com</email></author><entry><title type="html">little apple</title><link href="http://localhost:4000/update/2021/03/11/music.html" rel="alternate" type="text/html" title="little apple" /><published>2021-03-11T00:00:00+08:00</published><updated>2021-03-11T00:00:00+08:00</updated><id>http://localhost:4000/update/2021/03/11/music</id><content type="html" xml:base="http://localhost:4000/update/2021/03/11/music.html">&lt;p&gt;/source/little_apple.mp3&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/source/apple.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">/source/little_apple.mp3</summary></entry><entry><title type="html">sonnet31</title><link href="http://localhost:4000/update/2021/03/11/sonnet31.html" rel="alternate" type="text/html" title="sonnet31" /><published>2021-03-11T00:00:00+08:00</published><updated>2021-03-11T00:00:00+08:00</updated><id>http://localhost:4000/update/2021/03/11/sonnet31</id><content type="html" xml:base="http://localhost:4000/update/2021/03/11/sonnet31.html">&lt;p&gt;/source/sonnet.mp3&lt;/p&gt;
+&lt;p&gt;Thy bosom is endeared with all hearts,&lt;/p&gt;
+
+&lt;p&gt;Which I by lacking have supposed dead;&lt;/p&gt;
+
+&lt;p&gt;And there reigns Love, and all Love’s loving parts，&lt;/p&gt;
+
+&lt;p&gt;And all those friends which I thought buried.&lt;/p&gt;
+
+&lt;p&gt;How many a holy and obsequious tear&lt;/p&gt;
+
+&lt;p&gt;Hath dear religious love stol’n from mine eye,&lt;/p&gt;
+
+&lt;p&gt;As interest of the dead, which now appear&lt;/p&gt;
+
+&lt;p&gt;But things remov’d that hidden in thee lie!&lt;/p&gt;
+
+&lt;p&gt;Thou art the grave where buried love doth live,&lt;/p&gt;
+
+&lt;p&gt;Hung with the trophies of my lovers gone,&lt;/p&gt;
+
+&lt;p&gt;Who all their parts of me to thee did give,&lt;/p&gt;
+
+&lt;p&gt;That due of many now is thine  alone:&lt;/p&gt;
+
+&lt;p&gt;Their images I lov’d I view in thee,&lt;/p&gt;
+
+&lt;p&gt;And thou—all they—hast all the all of me.&lt;/p&gt;
+
+&lt;p&gt;你胸怀珍贵，因为你胸藏一切心上人，&lt;/p&gt;
+
+&lt;p&gt;我和他们无缘，曾以为他们全都丧生。&lt;/p&gt;
+
+&lt;p&gt;在你那胸腔里，爱及爱的一切可爱的品行，&lt;/p&gt;
+
+&lt;p&gt;都和我曾以为葬身其内的朋友共处一尊。&lt;/p&gt;
+
+&lt;p&gt;对死者热烈、虔诚的眷恋曾偷走&lt;/p&gt;
+
+&lt;p&gt;我圣洁、哀伤的泪儿如涌泉奔流，&lt;/p&gt;
+
+&lt;p&gt;而今回首，才明白这些过世的幽魂&lt;/p&gt;
+
+&lt;p&gt;不过是移居另处，安住在你的胸襟。&lt;/p&gt;
+
+&lt;p&gt;你庇护着我埋葬了的爱，你是孤坟，&lt;/p&gt;
+
+&lt;p&gt;坟内满挂着我那些过世恋人的战利品，&lt;/p&gt;
+
+&lt;p&gt;他们把我的一片痴心都转赠给你消受，&lt;/p&gt;
+
+&lt;p&gt;于是许多人共有的爱而今你独自占有。&lt;/p&gt;
+
+&lt;p&gt;　　在你的身上我看见我那些情人的形象，&lt;/p&gt;
+
+&lt;p&gt;　　你是他们全体，我的一切都是你的收藏。&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">/source/sonnet.mp3 Thy bosom is endeared with all hearts,</summary></entry><entry><title type="html">身份证安全</title><link href="http://localhost:4000/update/2021/03/10/id.html" rel="alternate" type="text/html" title="身份证安全" /><published>2021-03-10T00:00:00+08:00</published><updated>2021-03-10T00:00:00+08:00</updated><id>http://localhost:4000/update/2021/03/10/id</id><content type="html" xml:base="http://localhost:4000/update/2021/03/10/id.html">&lt;p&gt;&lt;img src=&quot;/source/id.jpg&quot; alt=&quot;SC&quot; /&gt;
+《刑法》第二百八十条之二第一、二款：“盗用、冒用他人身份，顶替他人取得的高等学历教育入学资格、公务员录用资格、就业安置待遇的，处三年以下有期徒刑、拘役或者管制，并处罚金。组织、指使他人实施前款行为的，依照前款的规定从重处罚。”&lt;/p&gt;
+
+&lt;p&gt;如果不对非法买法身份证进行打击，配合已有人脸相似度检测技术，买家可以轻松挑选出与自己相貌相似者的身份证,项目数据及代码由于涉及灰色地带，永不公布.该测试项目已于一年前终止.&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">《刑法》第二百八十条之二第一、二款：“盗用、冒用他人身份，顶替他人取得的高等学历教育入学资格、公务员录用资格、就业安置待遇的，处三年以下有期徒刑、拘役或者管制，并处罚金。组织、指使他人实施前款行为的，依照前款的规定从重处罚。”</summary></entry><entry><title type="html">脚本抢购茅台</title><link href="http://localhost:4000/update/2021/02/01/moutai.html" rel="alternate" type="text/html" title="脚本抢购茅台" /><published>2021-02-01T00:00:00+08:00</published><updated>2021-02-01T00:00:00+08:00</updated><id>http://localhost:4000/update/2021/02/01/moutai</id><content type="html" xml:base="http://localhost:4000/update/2021/02/01/moutai.html">&lt;p&gt;&lt;img src=&quot;/source/moutai.png&quot; alt=&quot;SC&quot; /&gt;
+图片来自互联网
+refer to https://github.com/muguruzawang/jd_maotai_seckill. It worked few months ago.&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">图片来自互联网 refer to https://github.com/muguruzawang/jd_maotai_seckill. It worked few months ago.</summary></entry><entry><title type="html">Drama</title><link href="http://localhost:4000/update/2021/01/24/drama.html" rel="alternate" type="text/html" title="Drama" /><published>2021-01-24T00:00:00+08:00</published><updated>2021-01-24T00:00:00+08:00</updated><id>http://localhost:4000/update/2021/01/24/drama</id><content type="html" xml:base="http://localhost:4000/update/2021/01/24/drama.html">&lt;p&gt;&lt;img src=&quot;/source/drama_student.jpg&quot; alt=&quot;out&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;'’剧场中的话剧/歌剧/音乐剧是落后于时代的艺术产品’‘，这是一个俗人在看剧时得到的结论。&lt;/p&gt;
 
@@ -75,7 +136,4 @@ One more thing, On the way to the conference room, I met an excellent classmate,
 &lt;p&gt;According to the formula provided by the big brother, I quickly implement it using python, but the coefficients obtained were deviated from expectations. Since there have been mistakes caused by incorrect understanding of the formula before, I suspect that there is a problem with my understanding. After communicating with the big brother several times, I firmly believe that there is no problem with my understanding. Then I suspected that there was a problem with the code details. However, after dozens of audits, I still couldn’t solve the problem. Asking for help from the mentor, still unable to solve the problem. After tossing for more than a week, I communicated with the big brother again, and finally found that the formula provided by the big brother was wrong.&lt;/p&gt;
 
 &lt;p&gt;Why I have never suspected that the formula is wrong? Perhaps it is because the code of the big brother has been written into the project in the group, and it has been used and tested by many team members. However, the formula provided by Tang comes from his comments, and his code does not directly use comments. Anyway, problem is solved, and the loss converged.
-&lt;img src=&quot;/source/pinn.png&quot; alt=&quot;loss&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">I have been working on a project related to physics informed neural network in recent months. The content is about solving partial differential equations through neural networks. The difference from traditional neural networks is that we don’t need to use any label data, just use equations to construct Loss function.</summary></entry><entry><title type="html">Outstanding Student</title><link href="http://localhost:4000/update/2020/09/14/outstanding-student.html" rel="alternate" type="text/html" title="Outstanding Student" /><published>2020-09-14T00:00:00+08:00</published><updated>2020-09-14T00:00:00+08:00</updated><id>http://localhost:4000/update/2020/09/14/outstanding-student</id><content type="html" xml:base="http://localhost:4000/update/2020/09/14/outstanding-student.html">&lt;p&gt;&lt;img src=&quot;/source/excellent.jpg&quot; alt=&quot;excellent&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Best TA</title><link href="http://localhost:4000/update/2020/09/14/best-TA.html" rel="alternate" type="text/html" title="Best TA" /><published>2020-09-14T00:00:00+08:00</published><updated>2020-09-14T00:00:00+08:00</updated><id>http://localhost:4000/update/2020/09/14/best-TA</id><content type="html" xml:base="http://localhost:4000/update/2020/09/14/best-TA.html">&lt;p&gt;&lt;img src=&quot;/source/TA.png&quot; alt=&quot;TA&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Vscode path</title><link href="http://localhost:4000/update/2020/08/04/path-way.html" rel="alternate" type="text/html" title="Vscode path" /><published>2020-08-04T00:00:00+08:00</published><updated>2020-08-04T00:00:00+08:00</updated><id>http://localhost:4000/update/2020/08/04/path-way</id><content type="html" xml:base="http://localhost:4000/update/2020/08/04/path-way.html">&lt;p&gt;When I am trying to write a scrip for JD.com flash buy, I find a interesting thing. my vscode root directory  is ‘/JDpython’, while my main function is in the secondary directory ‘/JDpython/JDassist’. when run ‘print os.getcwd()’, the result shows ‘/JDpython’ not /JDpython/JDassist.&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">When I am trying to write a scrip for JD.com flash buy, I find a interesting thing. my vscode root directory is ‘/JDpython’, while my main function is in the secondary directory ‘/JDpython/JDassist’. when run ‘print os.getcwd()’, the result shows ‘/JDpython’ not /JDpython/JDassist.</summary></entry><entry><title type="html">Recommendation: Some fresh milk</title><link href="http://localhost:4000/update/2020/08/03/milk-Evaluation.html" rel="alternate" type="text/html" title="Recommendation: Some fresh milk" /><published>2020-08-03T10:58:01+08:00</published><updated>2020-08-03T10:58:01+08:00</updated><id>http://localhost:4000/update/2020/08/03/milk-Evaluation</id><content type="html" xml:base="http://localhost:4000/update/2020/08/03/milk-Evaluation.html">&lt;p&gt;I bought several different fresh milk on JD.com and local supermarket. ‘光明 优倍 950ml 浓醇鲜奶鲜牛奶’ wins. It’s Milky flavor is stronger and not that expensive.
-&lt;img src=&quot;/source/milk1.jpg&quot; alt=&quot;server&quot; /&gt;
-&lt;img src=&quot;/source/milk2.jpg&quot; alt=&quot;server&quot; /&gt;
-&lt;img src=&quot;/source/milk3.jpg&quot; alt=&quot;server&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">I bought several different fresh milk on JD.com and local supermarket. ‘光明 优倍 950ml 浓醇鲜奶鲜牛奶’ wins. It’s Milky flavor is stronger and not that expensive.</summary></entry><entry><title type="html">KDD Cup 2020 Challenges for Modern E-Commerce Platform:Debiasing</title><link href="http://localhost:4000/update/2020/08/03/ali.html" rel="alternate" type="text/html" title="KDD Cup 2020 Challenges for Modern E-Commerce Platform:Debiasing" /><published>2020-08-03T10:58:01+08:00</published><updated>2020-08-03T10:58:01+08:00</updated><id>http://localhost:4000/update/2020/08/03/ali</id><content type="html" xml:base="http://localhost:4000/update/2020/08/03/ali.html">&lt;p&gt;&lt;img src=&quot;/source/ali.png&quot; alt=&quot;ali&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html"></summary></entry></feed>
+&lt;img src=&quot;/source/pinn.png&quot; alt=&quot;loss&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html">I have been working on a project related to physics informed neural network in recent months. The content is about solving partial differential equations through neural networks. The difference from traditional neural networks is that we don’t need to use any label data, just use equations to construct Loss function.</summary></entry><entry><title type="html">Outstanding Student</title><link href="http://localhost:4000/update/2020/09/14/outstanding-student.html" rel="alternate" type="text/html" title="Outstanding Student" /><published>2020-09-14T00:00:00+08:00</published><updated>2020-09-14T00:00:00+08:00</updated><id>http://localhost:4000/update/2020/09/14/outstanding-student</id><content type="html" xml:base="http://localhost:4000/update/2020/09/14/outstanding-student.html">&lt;p&gt;&lt;img src=&quot;/source/excellent.jpg&quot; alt=&quot;excellent&quot; /&gt;&lt;/p&gt;</content><author><name>meijm</name><email>meijm@@outlook.com</email></author><category term="update" /><summary type="html"></summary></entry></feed>
